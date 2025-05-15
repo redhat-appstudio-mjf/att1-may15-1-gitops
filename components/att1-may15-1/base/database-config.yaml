@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: att1-may15-1-database-config
+data:
+  VECTORDB_HOST: "att1-may15-1-database"
+  VECTORDB_PORT: ""
